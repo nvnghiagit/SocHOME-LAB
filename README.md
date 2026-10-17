@@ -28,7 +28,7 @@ Một lab phòng thủ (blue team) tự xây dựng để thực hành triển k
                                    └───────────┘
 ```
 
-> Ảnh sơ đồ chi tiết: `evidence/network-diagram.png` 
+> Ảnh sơ đồ chi tiết: https://github.com/nvnghiagit/SocHOME-LAB/blob/main/evidence/network-diagram.png
 
 ### Các máy trong lab
 
